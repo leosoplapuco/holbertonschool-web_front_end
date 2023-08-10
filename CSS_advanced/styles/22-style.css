@@ -99,6 +99,7 @@ a{
   
 [data-section-theme="dark"]{
     --section-title-color: var(--color-white);
+    background: var(--color-black);
 }
 
 h1, h2, h3, h4, h5, h6{
