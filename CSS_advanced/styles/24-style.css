@@ -205,7 +205,7 @@ ul.row{
 }
 
 .card-servicies .card-title{
-    margin: 0;
+    margin: none;
 }
 
 .card-servicies a{
