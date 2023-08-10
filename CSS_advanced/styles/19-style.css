@@ -167,7 +167,7 @@ ul.row{
 }
 
 .col-1-3{
-    width: 33,33%;
+    width: 33,33rem;
     float: left;
     padding: 0.5rem;
 }
@@ -190,7 +190,7 @@ ul.row{
 
 .footer-copyright{
     margin: 0;
-    font: var(--font-size-small);
+    font-size: var(--font-size-small);
     color: var(--text-color);
 }
 
