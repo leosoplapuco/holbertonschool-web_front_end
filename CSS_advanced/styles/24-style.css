@@ -205,7 +205,7 @@ ul.row{
 }
 
 .card-servicies .card-title{
-    margin: none;
+    margin: none !important;
 }
 
 .card-servicies a{
@@ -219,7 +219,6 @@ ul.row{
     background: var(--color-primary);
     text-decoration: none;
 }
-
 
 .footer{
     padding: var(--footer-padding);
