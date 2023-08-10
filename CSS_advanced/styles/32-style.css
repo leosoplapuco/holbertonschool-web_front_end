@@ -417,14 +417,10 @@ ul.row{
     transition: var(--transition-duration) var(--transition-cubic-bezier);
 }
 
-.button:hover{
-    transition-duration: var(--transition-duration);
-}
-
-.card-work:hover .card-image{
-    transition: var(–-transition-duration) var(--transition-cubic-bezier);
-}
-
-.card-work .card-inner{
-    transition: var(–-ransition-duration) var(--transition-cubic-bezier);
-}
+.card-work:hover .card-image {
+    transition: var(--transition-duration) var(--transition-cubic-bezier);
+  }
+  
+  .card-work .card-inner {
+    transition: var(--transition-duration) var(--transition-cubic-bezier);
+  }
