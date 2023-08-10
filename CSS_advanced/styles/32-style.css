@@ -406,11 +406,11 @@ ul.row{
 }
 
 .card-work:hover .card-image{
-    scale: 1.2;
+    transform: scale(1.2);
 }
 
 .card-work:hover .card-outer{
-    scale: 0.95;
+    transform: scale(0.95);
 }
 
 .nav .nav-link::before{
