@@ -204,17 +204,15 @@ ul.row{
     margin-right: auto;
 }
 
-.card-servicies .card-title{
-    margin: none !important;
+.card-services .card-title {
+    margin: 0;
 }
-
-.card-servicies a{
+.card-services a {
     display: block;
     padding: 2rem;
     background: var(--color-light-grey);
 }
-
-.card-servicies a:hover{
+.card-services a:hover {
     color: var(--color-white);
     background: var(--color-primary);
     text-decoration: none;
