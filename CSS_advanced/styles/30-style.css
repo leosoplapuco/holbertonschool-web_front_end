@@ -373,7 +373,7 @@ ul.row{
 .card-work .card-title a{
     display: block;
     text-decoration: none;
-    padding: 0.45rem;
+    padding-top: 0.45rem;
 }
 
 .card-work .card-title a::after{
